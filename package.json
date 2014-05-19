@@ -1,0 +1,14 @@
+{
+  "name": "blync-skype",
+  "version": "0.0.1",
+  "description": "Blync for skype",
+  "main": "index.js",
+  "dependencies": {
+    "blync": "otothea/node-blync",
+    "skyper": "0.0.10"
+  },
+  "devDependencies": {},
+
+  "author": "",
+  "license": "ISC"
+}
